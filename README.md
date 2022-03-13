@@ -1,2 +1,3 @@
-# hello-world
-My first repository on GitHub
+# My name is Madhusha Fonseka
+### I'm a Software Engineering Undergraduate.
+
